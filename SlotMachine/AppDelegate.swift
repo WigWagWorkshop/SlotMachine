@@ -2,8 +2,8 @@
 //  AppDelegate.swift
 //  SlotMachine
 //
-//  Created by Steven Pezzi on 11/25/14.
-//  Copyright (c) 2014 The Pez. All rights reserved.
+//  Created by The Pez on 12/22/14.
+//  Copyright (c) 2014 WigWagWorkshop All rights reserved.
 //
 
 import UIKit
